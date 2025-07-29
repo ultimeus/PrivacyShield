@@ -133,9 +133,6 @@ https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 **Quidsup NoTrack Ads** <br>
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
 
-**OSINT Threat Intel** <br>
-https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-
 **TheGreatWall** <br>
 https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
 
