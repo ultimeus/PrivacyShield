@@ -13,6 +13,12 @@ The List is gathered from many multiple sources, combined into one file, duplica
 **AdGuard** <br>
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 
+**Hagezi Multi PRO++** <br>
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+
+**Hagezi TIF** <br>
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
 **Spam404** <br>
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 
@@ -55,30 +61,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListFor
 **DandelionSprout GameConsole** <br>
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 
-**Easylist Germany Ads** <br>
-https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
-
-**Easylist Germany Popups** <br>
-https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers_popup.txt
-
-**Easylist Italy Ads** <br>
-https://github.com/easylist/easylistitaly/raw/master/easylistitaly/easylistitaly_adservers.txt
-
-**Easylist China Ads** <br>
-https://github.com/easylist/easylistchina/raw/master/easylistchina.txt
-
-**Easylist Spanish Ads** <br>
-https://github.com/easylist/easylistspanish/raw/master/easylistspanish/easylistspanish_adservers.txt
-
-**Easylist Korean Ads** <br>
-https://github.com/easylist/KoreanList/raw/master/KoreanList/koreanlist_adservers.txt
-
-**Easylist Korean Specific Ads** <br>
-https://github.com/easylist/KoreanList/raw/master/KoreanList/koreanlist_specific_block.txt
-
-**Easylist Hebrew Ads** <br>
-https://github.com/easylist/EasyListHebrew/raw/master/EasyListHebrew.txt
-
 **Easylist Privacy** <br>
 https://easylist.to/easylist/easyprivacy.txt
 
@@ -87,33 +69,6 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 
 **Easylist Cookies (Fanboy)** <br>
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-
-**Matomo Referrer Spam** <br>
-https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
-
-**RooneyMcNibNug Tracking** <br>
-https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt
-
-**Disconnect.me Simple Ad** <br>
-https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-
-**Disconnect.me Malvertising** <br>
-https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-
-**EthanR Domains** <br>
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-
-**EthanR PHP** <br>
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/all.php.txt
-
-**EthanR Zeus** <br>
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/zeus_baddomains.txt
-
-**EthanR Dom-BL-base** <br>
-https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/dom-bl-base.txt
-
-**Dawsey21 Main** <br>
-https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt
 
 **PhishingArmy Extended** <br>
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -127,53 +82,11 @@ https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
 **NoTracking** <br>
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
-**Wally3k Personal** <br>
-https://v.firebog.net/hosts/static/w3kbl.txt
-
-**hblock Ads** <br>
-https://hblock.molinero.dev/hosts_adblock.txt
-
-**aBL Block** <br>
-https://abl.arapurayil.com/filters/main.txt
-
-**Energized Ultimate** <br>
-https://block.energized.pro/ultimate/formats/filter
-
-**Energized Regional Extension** <br>
-https://block.energized.pro/extensions/regional/formats/filter
-
-**Energized eXtreme Extension** <br>
-https://block.energized.pro/extensions/xtreme/formats/filter
-
-**1Hosts Pro** <br>
-https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
-
-**BarbBlock** <br>
-https://raw.githubusercontent.com/paulgb/BarbBlock/master/BarbBlock.txt
-
-**Peter Lowe's List Yoyo** <br>
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
-
-**Curben URLHaus** <br>
-https://curben.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt
-
-**Openphish Filter list** <br> 
-https://openphish.com/feed.txt 
-
-**Phishing Bad Sites** <br> 
-https://raw.githubusercontent.com/MailScanner/v5/master/common/etc/MailScanner/phishing.bad.sites.conf
-
 **My Privacy DNS Matrix Tracking** <br>
 https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/tracking/domains.list
 
 **My Privacy DNS Matrix Adware** <br>
 https://gitlab.com/my-privacy-dns/matrix/matrix/-/raw/master/source/adware/domains.list
-
-**StopForumSpam Domains** <br>
-https://www.stopforumspam.com/downloads/toxic_domains_whole.txt
-
-**Lennolium Personal** <br>
-https://raw.githubusercontent.com/Lennolium/Misc/main/blocklist_self.txt
 
 **Quantum Simply Ads** <br>
 https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual%20lists/The_Quantum_Simply-ads-list.txt
@@ -190,56 +103,8 @@ https://gitlab.com/The_Quantum_Alpha/the-quantum-ad-list/-/raw/master/Individual
 **WindowsSpyBlocker** <br>
 https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 
-**AnudeepND Adservers** <br>
-https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-
-**MinimalHostsBlocker** <br>
-https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
-
-**DeveloperDan Ads Extended** <br>
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-
-**Frogeye Multiparty** <br>
-https://hostfiles.frogeye.fr/multiparty-trackers-hosts.txt
-
-**Frogeye Firstparty** <br>
-https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-
-**Esox-Lucius** <br>
-https://raw.githubusercontent.com/Esox-Lucius/PiHoleblocklists/main/HTTP%20headers%20aiding%20exploitation
-
-**SomeOneWhoCares Hosts** <br>
-https://someonewhocares.org/hosts/zero/hosts
-
-**Hoshsadiq NoCoin** <br>
-https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
-
-**Hoshsadiq Adguard Blocked Hosts** <br>
-https://raw.githubusercontent.com/hoshsadiq/blocked-hosts/53da5cea15bcfa924282e3c0fddf5aeb95ea4de1/adguard-lists
-
-**Hoshsadiq Blocked Hosts** <br>
-https://raw.githubusercontent.com/hoshsadiq/blocked-hosts/master/hosts
-
-**LLACB47 TikTok** <br>
-https://raw.githubusercontent.com/llacb47/mischosts/master/social/tiktok-block
-
-**Socialblock TikTok** <br>
-https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/TikTok/tiktokblocklist.txt
-
 **AdAway Ads** <br>
 https://adaway.org/hosts.txt
-
-**PolishFiltersTeam KADhosts** <br>
-https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
-
-**Nicholasb Primary** <br>
-https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt
-
-**Nicholasb Secondary** <br>
-https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt
-
-**Nicholasb Tertiary** <br>
-https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt
 
 **Blocklistproject (BLP) SmartTV** <br>
 https://blocklistproject.github.io/Lists/smart-tv.txt
@@ -274,18 +139,6 @@ https://blocklistproject.github.io/Lists/abuse.txt
 **StevenBlack Ad Malware** <br>
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
 
-**Big List of Hacked Malware Web Sites** <br>
-https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts
-
-**Bjornstar's Hosts** <br>
-https://raw.githubusercontent.com/bjornstar/hosts/master/hosts
-
-**Ultimate Hosts Blacklist #0-3** <br>
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts0?raw=true <br>
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts1?raw=true <br>
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts2?raw=true <br>
-https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist/blob/master/hosts/hosts3?raw=true
-
 **Prigent Malware** <br>
 https://v.firebog.net/hosts/Prigent-Malware.txt
 
@@ -304,29 +157,11 @@ https://quidsup.net/notrack/blocklist.php?download=trackersdomains
 **Quidsup NoTrack Ads** <br>
 https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
 
-**Phishing Army Block** <br>
-https://phishing.army/download/phishing_army_blocklist.txt
-
-**NeoDevHost Lite** <br>
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
-
-**Craiu Mobile Trackers** <br>
-https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
-
-**BlockConvert Adblock** <br>
-https://mkb2091.github.io/blockconvert/output/adblock.txt
-
-**BigDargon Hosts** <br>
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
-
 **OSINT Threat Intel** <br>
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 
 **TheGreatWall** <br>
 https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
-
-**Mal DNS Search Mandiant** <br>
-https://raw.githubusercontent.com/jonschipp/mal-dnssearch/master/mandiant_apt1.dns
 
 
 ## <ins>White List</ins>
