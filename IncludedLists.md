@@ -67,15 +67,6 @@ https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 **Easylist Cookies (Fanboy)** <br>
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
-**PhishingArmy Extended** <br>
-https://phishing.army/download/phishing_army_blocklist_extended.txt
-
-**NextDNS CNAME Cloaking** <br>
-https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/dbc00eb230484afb007a4904d2549968abd586b1/domains
-
-**Superover TikTok** <br>
-https://raw.githubusercontent.com/superover/TikTok-Blocklist/master/tiktok.txt
-
 **NoTracking** <br>
 https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt
 
@@ -118,25 +109,6 @@ https://blocklistproject.github.io/Lists/abuse.txt
 **StevenBlack Ad Malware** <br>
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts 
 
-**Prigent Malware** <br>
-https://v.firebog.net/hosts/Prigent-Malware.txt
-
-**Quidsup NoTrack Annoyance** <br>
-https://quidsup.net/notrack/blocklist.php?download=annoyancedomains
-
-**Quidsup NoTrack Malware** <br>
-https://quidsup.net/notrack/blocklist.php?download=malwaredomains
-
-**Quidsup NoTrack Trackers** <br>
-https://quidsup.net/notrack/blocklist.php?download=trackersdomains
-
-**Quidsup NoTrack Ads** <br>
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt
-
-**TheGreatWall** <br>
-https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt
-
-
 ## <ins>White List</ins>
 
 **AnudeepND Whitelist** <br>
@@ -177,6 +149,3 @@ https://github.com/DandelionSprout/AdguardFilters/raw/master/SafariFilter/sectio
 
 **DandelionSprout Mobile** <br>
 https://github.com/DandelionSprout/AdguardFilters/raw/master/MobileFilter/sections/whitelist.txt
-
-**Banking Domains** <br>
-https://raw.githubusercontent.com/cbuijs/shallalist/master/finance/banking/domains
