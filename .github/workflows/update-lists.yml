@@ -1,0 +1,40 @@
+name: Update Blocklists
+
+# Controls when the action will run.
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+  # Runs on a schedule (this is every Sunday at 02:00 UTC)
+  schedule:
+    - cron: '0 2 * * 0'
+
+jobs:
+  update-lists:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checks out your repository's code so the job can access it
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # 2. Sets up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip' # caches dependencies for faster runs
+
+      # 3. Installs the dependencies from requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. Runs the Python script to update the blocklist
+      - name: Run update script
+        run: python scripts/update_lists.py
+
+      # 5. Commits the updated blocklist file back to your repository
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: Update blocklists"
+          file_pattern: PrivacyShield.txt # Only commit if this file changes
